@@ -9,9 +9,9 @@ The heat equation is a PDE, which is usually solved using numerical methods (FEM
 ## Prerequisites
 Before you start, make sure that you have fulfilled the following requirements:
 - **Developed on Linux Ubuntu**
-- **Cuda 12.1**
+- **CUDA 12.1**
 - **Anaconda**
-- **Pytorch 2.0.1**
+- **PyTorch 2.0.1**
 
 ## Installation
 Carry out the following steps to start the project:
