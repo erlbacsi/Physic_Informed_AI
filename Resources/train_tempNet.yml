@@ -1,0 +1,11 @@
+model:
+  learning_rate: 1e-3
+  batch_size: 51
+  accelerator: cpu
+  max_epochs: 10
+  log_steps: 1
+paths:
+  data_path: /home/simon/Machine_Learning/Models/Trainingsdaten_short
+  json_output_path: /home/simon/Machine_Learning/logging/json_output/output.json
+  logging_dir: /home/simon/Machine_Learning/logging/logs
+

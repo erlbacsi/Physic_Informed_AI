@@ -1,0 +1,10 @@
+model:
+  learning_rate: 0.001
+  batch_size: 10
+  accelerator: gpu
+  max_epochs: 500
+  log_steps: 10
+paths:
+  data_path: /home/pi/erlbacsi/Machine_Learning/Models/Trainingsdaten
+  json_output_path: /home/pi/erlbacsi/Machine_Learning/logging/json_output/output.json
+  logging_dir: /home/pi/erlbacsi/Machine_Learning/logging/logs
